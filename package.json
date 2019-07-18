@@ -1,0 +1,26 @@
+{
+  "name": "env-parser",
+  "version": "1.0.0",
+  "description": "env-parser transform content of a .money or .env file to an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somtozech/env-parser.git"
+  },
+  "keywords": [
+    ".env",
+    ".money",
+    "parser",
+    "environmental",
+    "variables"
+  ],
+  "author": "Ezechi Nnaemeka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Somtozech/env-parser/issues"
+  },
+  "homepage": "https://github.com/Somtozech/env-parser#readme"
+}
